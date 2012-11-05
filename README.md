@@ -2,7 +2,7 @@
 ==========================================================
 
 You can find us at the following locations:
-- email: sydjango <at> gmail.com
+- email: sydjango at gmail.com
 - repo: github.com/sydjango
 - meetup: meetup.com/SyDjango
  
